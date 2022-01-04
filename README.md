@@ -24,7 +24,7 @@ bash <(curl -L rotf.lol/WhatsAlexa-Toxic-Devil)
 ```
 pkg install git
 pkg install nodejs
-git clone https://github.com/TOXIC-DEVIL/WhatsAlexa
+git clone https://github.com/mahmoud7532000/WhatsAlexa
 cd WhatsAlexa
 npm i @adiwajshing/baileys
 npm i chalk
@@ -39,7 +39,7 @@ node alexa.js
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAlexa)
+[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahmoud7532000/WhatsAlexa)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
